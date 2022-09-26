@@ -1,0 +1,7 @@
+#scrollUp
+{
+position: fixed !important;
+bottom : 10px;
+right: -100px;
+opacity: 0.5;
+}
